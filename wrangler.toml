@@ -16,6 +16,9 @@ custom_domain = true
 [[routes]]
 pattern = "cicilan.ruangguru.com.sg1.vpnvps.my.id"
 custom_domain = true
+[[routes]]
+pattern = "space.byu.id.sg1.vpnvps.my.id"
+custom_domain = true
 
 [vars]
 # UUID = "d342d11e-d424-4583-b36e-524ab1f0afa4"
