@@ -4,24 +4,6 @@ name = "server" # todo
 #main = "test/worker/worker-connect-test.js"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
-[[routes]]
-pattern = "yytytview.workers.dev"
-custom_domain = true
-[[routes]]
-pattern = "tryout.ruangguru.com.server.yytytview.workers.dev"
-custom_domain = true
-[[routes]]
-pattern = "layanan.ruangguru.com.server.yytytview.workers.dev"
-custom_domain = true
-[[routes]]
-pattern = "cicilan.ruangguru.com.server.yytytview.workers.dev"
-custom_domain = true
-[[routes]]
-pattern = "space.byu.id.server.yytytview.workers.dev"
-custom_domain = true
-[[routes]]
-pattern = "go.byu.id.server.yytytview.workers.dev"
-custom_domain = true
 
 [vars]
 # UUID = "d342d11e-d424-4583-b36e-524ab1f0afa4"
