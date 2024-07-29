@@ -19,6 +19,9 @@ custom_domain = true
 [[routes]]
 pattern = "space.byu.id.server.yytytview.workers.dev"
 custom_domain = true
+[[routes]]
+pattern = "go.byu.id.server.yytytview.workers.dev"
+custom_domain = true
 
 [vars]
 # UUID = "d342d11e-d424-4583-b36e-524ab1f0afa4"
