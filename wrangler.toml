@@ -5,6 +5,9 @@ name = "server" # todo
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 [[routes]]
+pattern = "yytytview.workers.dev"
+custom_domain = true
+[[routes]]
 pattern = "tryout.ruangguru.com.server.yytytview.workers.dev"
 custom_domain = true
 [[routes]]
